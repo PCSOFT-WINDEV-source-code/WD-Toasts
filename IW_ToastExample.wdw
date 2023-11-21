@@ -1,0 +1,350 @@
+#To edit and compare internal_properties, use WINDEV integrated tools.
+#Internal properties refer to the properties of controls in windows, reports, etc.
+info :
+ name : IW_ToastExample
+ major_version : 28
+ minor_version : 0
+ type : 8
+ description : ""
+ subtype : 0
+window :
+ name : IW_ToastExample
+ identifier : 0x2ec254f10ac7a788
+ internal_properties : CAAAAAgAAADu4GDzzxE8Tq8ysJ42jkHgT21FV2z+e8viQw7C1x4ExgbG/B5UBEaqTDtsZZXPajNVYTxLxIGsEgkIIZCHJelMuAZkNcpFOp3wPAWY2UtUVvwk5BO6eFsrNfqYk+0UDHAcp9MO5yx2rib0rcg+ksQq1/r/8omsRKSuv9jAFkglrIIaoZOCLRTTM3PERceDnx8kOtEkNZyy2mgtYA9V6pSVeMYDlPi+UTQ4+ihFETRp5yiUsTHBBQvAaN3RDfxcgKxVJmf4IAOyNOrBIjx5WMAfKG59thSgJqtLV7i+BhCMF17TEf5snbRdlYHK5bpyBeTIWMK5/DEb7jL4ZsJMzANyolHMWcL9NWV278e42go2J+bCF9RUqcodL3qOtaxgRlxHKYJqg4QF0ajZszx0nNd7gTFwL7SdceRy8NMF3/z7Qmv+HAgC61wiZUd4odJdtl36lj1kmmqKchELdlRnTkHSBQ1C8wk+g0bvdmQHAOlaAMk6w7XXKKrJ2pbmSKEs75UP9uPmmFeFecq2nQjytvPO9h2y3OswYKkzL9ox1fbLlIUrpcB+nhGJRJemKRd4d5pZbFPdIMSYQQY9gt2wYw0ioAL9zkEdxu9JV2y6hM8DvsCGK+E47OLIpbMXcadsK58v/1VS5qfWcLe0BHrW5c7Q8jw87AyBOtMwIMjlHl5qhnejgfYG3KRqlGzmZtJoYHpwWQSmOY1hbjKsuR3BiAkmMFMNnpilvxOk2eoM2RgC2YU9tyiCFbf0blG4PGOCstmb477Fn30QbCtZqObwjEovan6UTLlQYqOKWm2R9Q==
+ properties :
+  width : 400
+  height : 300
+ controls :
+  -
+    name : IW_ToastExample
+    identifier : 0x2ec254f10ac8a788
+    internal_properties : CAAAAAgAAAD4iEuFfCy/93nF5hIzf+jlTVg4ispqD2F6xi/INOUKgRGnqZz289EWHacuLhEaW9O0Vq09HOX+0tjMQK6DKw0jkh2/os0J7r9kKZlsIO38siYPo3RZifQ/kWWh6nkazRJzbE4SQkGKu+BKCleNVLlvOWB4BsiOIvwZPAjVORf3tlnDRxfi+o1ZS/NFSpfi8sD+cQoLVZBD6OgezicHov4F/mmGuCbuZuT3GtyPEmr8fNlRykYeNRIUwT7SPgMX9cGndE5x7FymXgIlwbBsRXq+NegnrVyM2rU3ZvNhUtRF+mb+v0F1KAHMEz2Gou4yMYSiwzajZbX1RLUl8P2ze+vfo1SOCLnfTWNd5/IdJ4ahm7ohbFfryqsJkh4//laqSY5BBurk/AvA9ryAW0BN8vEoqGQnlKP6Hjwr2bkj2Zj9IFmq7HhX7oLGvX2qPvKvRP+zIDeCy/GXqCeoasOyVcNMHkDkQCRRHcmT9ea1tOWKwBLxeQ==
+    properties :
+     width : 400
+     height : 300
+    controls :
+     -
+       name : IMG_Background
+       identifier : 0x2ec254f10ac9a788
+       internal_properties : CAAAAAgAAADHVnzgU8Po7GM3eljiSnbXaN1TiNkRgXW0ZfqW5vj40dFPsWgwrkUVsfIALTe4kmgUVfnCAm3gXt7ofxxRiG14U203T8pmpVa//DtBJAjZRdxmEGlldYLfCxpvYNc+EKDajYKh/LmlaIc/cmxVuZjVOxVg7G6ds1ROw41j1ZI5wM/JjgLHvncw/Mv3ke8dAXYGS27otHiUjJqX3f9HuOAa314fVLrMdr0wd+mJ+YiobBfk+0Hes4SK/7aN228rYBtFmZ8KTbA4T212mS2lOlITMrPiTA74VYbusNDua3VsFzOkpoiXjsvpzLVb/bLiwD48tlxXSpLmGq+7/Clh/aKvvTpO+x+vwtpjwlSgVR0zppD2AH8914JO/dm3DAl5Ti39GFOFxo8xaFotXg4hxi8IunkuFdMOTEFZRL86qAk16jra8S6ZWidH+DBbo5l5D3OuoTcRvMqeXcUBMyI2EsKvI0inAZzh9iI7LY6fQkH7RqaKr9tx5BTvoBq88b6PYT53u7xuW4bWzPl75twtCYGE9fjpgzdO5mo+K24RlL4Y+y0GkVauOmOX48k3Sm8w+VKqQ9p7TlRsypjxzF8SWbskXP7bwcyLKQ9FbGO3uheqGC7lXIR1yACbmYcBojgWwONZtQ3onz5xcnaJk9OQktC2oVp9WZf+zqyTrXjnnp/OW0jypSVMGmL5HnaiMvzpK+gUU8giffJyNG8yLvMS8CsOt3Wi9a8WFozwS4DvFCRldrr4J7/QZAvQSuGN0KWtKh3/JlVWgXmB9noKvV9ZIY5vkKe176TcHZx7uV62rJeCsuzJe7wsojsW8gwZu/eV0OIvP3SxHxCyZU8=
+       properties :
+        width : 400
+        height : 300
+       type : 8
+       code_elements :
+        type_code : 8
+        p_codes : []
+     -
+       name : IMG_Background1
+       identifier : 0x2ec254f10acaa788
+       internal_properties : CAAAAAgAAACN4KoAodvnSLOK5V3zCUnlsGJC0lnHQ+kqOP7+J+ODpXi5bsiR3jvMs5rf5cKiEDtqGWRVRHr2vuv4mjE6EL9RurcahQKMyLKCrSFeaYIh5qeWcwU8DY3+soZvNZ/gpYoPxFTq0Kdys4NSCdO6GppjcE3Q9ra56e7rSwrLZ07SHrVOIJd7h5t1drgAEtyVEyMPF/YLDgck8sgA6uGYNCeaCs9JRRXhGW4ZDzCARcCHFTcS+cs1+2vBKxKK34mjBPcWhUE3CMIznS4om3WDlk2NPOdW+lmBMFuXppATpn8M0/pjZLwjk8YPB4wxMvjW9nqYPoyvtLH0oDxOy4s/fxqdiLNKrNrlttXxvndTpw9pfV+T9ITjC5NP6Cc+id++S2xJ0jPZyr4aYt3y1/6tEloaONVI+zR3M9h8SA8qkcJo9pQOZUyxu6YpaK7y+rklbWYlMHfKRLoL3rcwgF2S9K+RSJA7aLH+wvNuNSu+KBreydTPK9PMesFi/lhyRdJ9AI/VdXupDfAt76iLBWhi4voxP0hvrko54Wy/PzPc/wBQCcVHmEwSiTH5vurtrX4Eb/GlA96FHV2lX2Q5MZQm1isIRDsm4u7OFLsjpLOugmEjNl7rahBTiMWQjskL4XyO4B5qTWygEBuFRrAtV2itzA29wah27PBABhuE9dTmkw+8OxxSTVi2vfNWLMbqkAp48g==
+       properties :
+        x : 68
+        y : 58
+        width : 120
+        height : 120
+       type : 8
+       code_elements :
+        type_code : 8
+        p_codes : []
+     -
+       name : IMG_Drawing
+       identifier : 0x2ec254f10acba788
+       internal_properties : CAAAAAgAAABBVO0sbHpRAuoCWiEubN+JkaHeqFVsFkAWKAwj1bVdHz9cgQS7Q33zKuwdRAGPUdc5kWQ6mN197nr2wX7xgWFgcZjs5vxeFfrMqrXddd3SOa0EPB2to3FkZrGjJ6mfkG7+VNd96VeFw0J4rPg6gGNlZKcGPLhxI+XdIZ7xP36pL7+HmHQ6kKamxkrt9+ddksXnXaUjnDcKqiMRD2RnzHNbTYkvgqIDZxHxmXKqcIHM1PzhnpmBcEUqdxhDfJl8SIPaCsAAYpT34Yn2gC/Thby9VT/5T8pOT3PmMQ/BF7/kbY8teSiooQ6dq77mk0NtW0oobCFkS2e6X/ZEBhBWfVo+twL72JkT9U3dpsxAxBCZmvrQPSs21RcS0/uMSsUGdP/MOKymH0+P4qLq2zB1R8VHxQwEc+/MozsxI98mE8SeI9KKQtVc+uodwW54Tt/Ms8jpGzSySlfbLg1e1v50X2Ew0xfO9BcCh3MTH5LDTFJXI6+Gucs6bmWx9I3Eu07hD7E7g7sTOUiowXKKTGO5qZWNR7juONDHvoOIZyW+/UIR+seK0IP68QzNaenuNvMM5VwSw/Y5Cyvm7TiqJ2JJgmMaarf9Sijj8R1q+gcseLGHS0imug==
+       properties :
+        x : 68
+        y : 58
+        width : 120
+        height : 120
+       type : 8
+       code_elements :
+        type_code : 8
+        p_codes :
+         -
+           code : |1+
+            // Version 1
+            // Description 
+            // Display a clock
+            // Time automatically updated
+            // Assign time in WLanguage with DateTime, Local time or another time zone
+            
+            // Drawing parameters
+            nDepartment					is int	= IMG_Drawing..Width / 2
+            
+            // Needle colors
+            nColorSecond				is int	= RGB(220, 56, 43)
+            nColorMinute				is int	= RGB(55, 70, 73)
+            nColorHour					is int	= RGB(55, 70, 73)
+            nTurningWhite				is int	= 20
+            
+            // Needle size and thickness
+            nSizeHour					is int	= 0.70 * nDepartment - nTurningWhite
+            nSizeMinute					is int	= 0.86 * nDepartment - nTurningWhite
+            nSizeSecond					is int	= 0.96 * nDepartment - nTurningWhite
+            nThicknessHour				is int	= 5
+            nThicknessMinute			is int	= 3
+            nThicknessSecond			is int	= 1
+            
+            	// Draw the clock
+            	INTERNAL PROCEDURE DrawClock
+            	
+            	// Initialization of drawing
+            	dStartDrawing(IMG_Drawing,dErase)
+            	dChangeMode(IMG_Drawing,drawAntiAliasing)	
+            	
+            	// Time to draw
+            	tLocalTime is time = TimeSys()
+            	IMG_Drawing..ToolTip	= TimeToString(tLocalTime,"HH:MM:SS")
+            	STC_Hour				= IMG_Drawing..ToolTip	
+            	
+            	// Hour hand
+            	nNeedleAngle is int = ((( (tLocalTime..Hour modulo 12) * 60) + (tLocalTime..Minute)) / 2) - 90
+            	dLine(IMG_Drawing,nDepartment + (Cos(nNeedleAngle) * nSizeHour), nDepartment + (Sin(nNeedleAngle) * nSizeHour), nDepartment, nDepartment, nColorHour, nThicknessHour)
+            	
+            	// Minute hand
+            	nNeedleAngle = (((tLocalTime..Minute * 60) + (tLocalTime..Second)) / 10) - 90
+            	dLine(IMG_Drawing,nDepartment + (Cos(nNeedleAngle) * nSizeMinute), nDepartment + (Sin(nNeedleAngle) * nSizeMinute), nDepartment, nDepartment, nColorMinute, nThicknessMinute)
+            	
+            	// Second hand
+            	nNeedleAngle = (tLocalTime..Second * 6) - 90
+            	dLine(IMG_Drawing,nDepartment + (Cos(nNeedleAngle) * nSizeSecond), nDepartment + (Sin(nNeedleAngle) * nSizeSecond),nDepartment, nDepartment, nColorSecond, nThicknessSecond)
+            	
+            	end
+            
+            // Draw the clock for the first time
+            DrawClock()
+            
+            // Re-draws the clock every second
+            TimerSys(DrawClock,1s)
+           type : 14
+     -
+       name : IMG_Center
+       identifier : 0x2ec254f10acca788
+       internal_properties : CAAAAAgAAADeCX4LxbuZLaAe0muql3Q7k4lOdh7XURagibuVvFuG/ZM7mjvQ/kkdVQN6zR/lPEg3eBtF10N2nxRTE0CgfE4s/kvdmA6Zru0icqtsGFH1YNuMom5jjtUUEF/plVImdWzrjNpLkjFVICkki7IjFCMw8jVscZxEdD8SdRbczE0vLRwWqKNcmIwIJ9oRsqgi9IAt+WEVNGmFNiWoOxLWwUy5UTDXPEZreSfp6fyC2wYdLuSrjg7TU1F17M086ctaYxQimD01tzvZwY0oYJyey96pvj81CrGdbox682cbQAhVVNx0PYnB86vbvvjBa3KzoJUj5saFWT0IJDIeqvvQ8O272KefupxHvviw4khqJQ/PHpOcY4LYgQdQTTpy5Y6hLyuNivSX0Fkfhie1KSrteInNrltotRGO2289mY9DGWWfkw2nIG0jW7smizvcBnJwdkltzjlmgbJw5bCXtL7jAc2ncdhpZ92rS094oBimfDqraj3KSSVllPeBEXxzDcnYV/foHc/nHgz3qosymKqC5vH7lL/T6xaYh4DGY3tgp1vD9LirOjVKn+brFbZa+bHcNNGMuzCbAc49AGFuJHfDO4Nm+d6GYhN/Xz/nVL2GKkKOYeb0/kX7aFMaASekL2G7+kvkWT3TDipgKkCaDJtD+pV3zOO7g+Wog1am9kpyZPxIXhL60aI=
+       properties :
+        x : 121
+        y : 111
+        width : 14
+        height : 14
+       type : 8
+       code_elements :
+        type_code : 8
+        p_codes : []
+     -
+       name : STC_Hour
+       identifier : 0x2ec254f10acda788
+       internal_properties : CAAAAAgAAAALPE7DJzusIM20X8Z/DEk+5imoKV662T5up9gdOk60AR+UDr5mnSHLpBp4hsCFPS2P08ugjqfPYZFbUKlNj/AD4bjn7HP3owzo14QYQ4+VQETN9foyOCxRM+S6eYtHlCLz3z9MkrPjFv/Onp9vly/L5LqAosJtp/o5wL1qG++SWyyXRDZRvcSRWrMPnm6QA4VcmGOh0VRwQNyc7FFaMQTC20a6RqDA+Z/DN8mqt4JpsywrFBtqOcLrXK/WKqUkjmQvHTPlMTTILNoAuVxw69/qpoHLquCmYC1QvFnX7ZPdgIt0lFFhrFmBSKh+NxE6S2mzsN+4KZSN28NXWR7U8/MojujHXPKkcijKE9dTInPSWXaw461GZnZ3D6/zv4t9FdbwSDmOEszbLpZTlV/v0D+Z9ZWMV5zBhrpVSRSyPlNgsyJur37CI/FLgeLJsSbTclRuAJU8/nONj7WXoq00ch/XgNIBVuE4wS5xt8XpGZPJudT6c+zVDPD59fll3Fx91xtIaH9cYG2b1hkngtxXA5WYMn4smT+HpmFSYN/UcA==
+       properties :
+        x : 68
+        y : 135
+        width : 120
+        height : 20
+       type : 3
+       code_elements :
+        type_code : 2
+        p_codes : []
+     -
+       name : IMG_BackgroundTimeZone
+       identifier : 0x2ec254f10acea788
+       internal_properties : CAAAAAgAAAAHTkFuI/0XkSP1MVBT5qyJXggUNWWusCGcCIb6LApyGGDnEQs2jJax4c05tKmy+mxd6WOcWR5Mt6xD3HCJ426zR7AobgKpNImytnmbkNLHfk+kgW8a0KjA61sut7cXm11iIaE6G/GvZ8J2pZxH397TD4AEHS8MjLvnURZD5q3z7LvbwhOc8ylZcCGqn2gZ7QF5a0p4BzT2YENqTklgOYGVz3NRx3hL0wv/iw/tne3mr4x/3ID8Ec0CdLwrAwePAsKLkwzDipH01JfAy4It6V/qGj7svfcFmLs0HWHAwBFTrjzAtp8H/My5mL8pKs8yaBummvMV4EoeyI93QXkIbuaI0HdsZVUCC9O2kh4x9o7tX7gll2Ve0fUP+xNXVXRbZ8C0cMiwTwAeZOLS9iSS7xa4o3sJ/tHHnqJRAuqkMut4uIMuvv92W/CTEUYnWlCshSb6znoz016PTIpKBzunqXHpqbZy5chCYFMfM4xQ6Z8Gm4/Thsw7ylumg6onfSFAbrGwiaJuvCoDA0k5Ym7nPxiBQoqKPwkjgbJgB7j0tpPOl8yNIa/H++/Nh2Cgj18hvfdAcefItjlBkeXyTJ/MRF9c3+40KDi6stlvfORykPA5cu2/Aopy0b4bjQJ7ZR5WnapxFDykbiA97u7Yoc/PLxG2JU/qP9CGExARxP6+n66L7HneNs/W8hGGfqNz5pjxKOs=
+       properties :
+        x : 212
+        y : 58
+        width : 120
+        height : 120
+       type : 8
+       code_elements :
+        type_code : 8
+        p_codes : []
+     -
+       name : IMG_DrawTimeZone
+       identifier : 0x2ec254f10acfa798
+       internal_properties : CAAAAAgAAACzq/3OS5nlXzx1TdcNBxeYNyN6ki0eGTza/2DQ/Aimu4+eqyuJjFmGRWqK7ffuozAo5mfP0nguALVGzQ8jV8lWfhxFEfLEHNxkaTO5hs92S/szc5qyPGZn3FUcEVLtXUWMCkIBLJtoqtUsYuDCvUgEM01ZMKcL7MJK8aiCknspwDHkLkxSbG1kAobzkuAAt7nAuvPaAjvqsxBU3Gfeq3lHowhLKn0gFSU7QAYFqergnb06OixhlGjnOfz+zkPkcWl4zLvwfp51Mfmqzb+iSKFEkp+OfCMfYWPBBb49P5bxEsdXyC8TNy2Czas7iXgbdgZ6FbJOnHHsz5eJP0Yd+RWSAQf4Ys6x0xWkN7fMg8SutoC3tGxOaEWOknJZcjQIn6tulQX0GP3NfhPjBr56VerRrbm3+YDk59XmjoiIRuBHQYofhRtfXFwtcJ0RJu47aVl2z3o1AAAeoamG+E/AVC8BbOvSGT9rKg4/N5pyIKtBWmL2N6YCy4Ro9k9k6LY6YWhSlX1INz3nBBzGFu2ZBgU02jSk/Vgk7d444/01KaXh8f6+4mrQeOHOlS+lrvLMWDhwzCHDvid8ryXodvjvEfouBFHJ4DICQau/qGfNYcGRoqCg
+       properties :
+        x : 212
+        y : 58
+        width : 120
+        height : 120
+       type : 8
+       code_elements :
+        type_code : 8
+        p_codes :
+         -
+           internal_properties : CAAAAAgAAAB+eToEL5pFuPOuU84it4yv24DRTUS1FB5Zw6dz1T+GT4d4fNmtTZevfgqbGQWi7yQXIP+Ps/XNTHeIelX3iJvDAOui71IG64jdgZoI3ehBxdb9vIW9BX1D/5XH5hS35gnqMVMn15EUHa5H7w==
+           code : |1+
+            // Select time zone among those defined by the IANA Time Zone Database (to change according to preference)
+            // e.g.:
+            // Africa/Abidjan
+            // Africa/Accra
+            // Africa/Addis_Ababa
+            // Africa/Algiers
+            // Africa/Asmara
+            // Africa/Bamako
+            // etc
+            STC_Different_time_zone = <§$0000§>
+            
+            // Drawing parameters
+            nDepartment					is int	= IMG_DrawTimeZone..Width / 2
+            
+            // Needle colors
+            nColorSecond				is int	= RGB(220, 56, 43)
+            nColorMinute				is int	= RGB(55, 70, 73)
+            nColorHour					is int	= RGB(55, 70, 73)
+            nTurningWhite				is int	= 20
+            
+            // Needle size and thickness
+            nSizeHour					is int	= 0.70 * nDepartment - nTurningWhite
+            nSizeMinute					is int	= 0.86 * nDepartment - nTurningWhite
+            nSizeSecond					is int	= 0.96 * nDepartment - nTurningWhite
+            nThicknessHour				is int	= 5
+            nThicknessMinute			is int	= 3
+            nThicknessSecond			is int	= 1
+            
+            	// Draw the clock
+            	INTERNAL PROCEDURE DrawClock
+            	
+            	// Initialization of drawing
+            	dStartDrawing(IMG_DrawTimeZone,dErase)
+            	dChangeMode(IMG_DrawTimeZone,drawAntiAliasing)	
+            	
+            	// Time to draw
+            	dtDateTimeTimeZone	is datetime	= DateTimeLocalToTimeZone(SysDateTime(),STC_Different_time_zone)
+            	tTimeTimeZone		is time		= dtDateTimeTimeZone..Time
+            	IMG_DrawTimeZone..ToolTip	= TimeToString(tTimeTimeZone,"HH:MM:SS")
+            	STC_TimeTimeZone			= IMG_DrawTimeZone..ToolTip	
+            	
+            	// Hour hand
+            	nNeedleAngle is int = ((( (tTimeTimeZone..Hour modulo 12) * 60) + (tTimeTimeZone..Minute)) / 2) - 90
+            	dLine(IMG_DrawTimeZone,nDepartment + (Cos(nNeedleAngle) * nSizeHour), nDepartment + (Sin(nNeedleAngle) * nSizeHour), nDepartment, nDepartment, nColorHour, nThicknessHour)
+            	
+            	// Minute hand
+            	nNeedleAngle = (((tTimeTimeZone..Minute * 60) + (tTimeTimeZone..Second)) / 10) - 90
+            	dLine(IMG_DrawTimeZone,nDepartment + (Cos(nNeedleAngle) * nSizeMinute), nDepartment + (Sin(nNeedleAngle) * nSizeMinute), nDepartment, nDepartment, nColorMinute, nThicknessMinute)
+            	
+            	// Second hand
+            	nNeedleAngle = (tTimeTimeZone..Second * 6) - 90
+            	dLine(IMG_DrawTimeZone,nDepartment + (Cos(nNeedleAngle) * nSizeSecond), nDepartment + (Sin(nNeedleAngle) * nSizeSecond),nDepartment, nDepartment, nColorSecond, nThicknessSecond)
+            	
+            	end
+            
+            // Draw the clock for the first time
+            DrawClock()
+            
+            // Re-draws the clock every second
+            TimerSys(DrawClock,1s)
+            
+           type : 14
+     -
+       name : IMG_CenterTimeZone
+       identifier : 0x2ec254f10ad0a798
+       internal_properties : CAAAAAgAAADPek962qCQNOdnZeIVHuPKYFo/RTOknNHjyv6o+2bxSDzY1/ZhV1xwaKRZEGJUQ48ESUicnBC9VluIqreHS0Uz97wCV7fydUTROxJz/7T4k9yJn0k8bwh/0wj0gO1RwFcUwVc2U1J0B+DNEjn+Q7pPY5ZdcGHB92rNBgUfl+awqGUXrIWmWrLOi+7jQsx6pHjhvYEjii+HfL2QMdqO7VQhxaTLtsDt56FtZQYCO9qV3tAnJmShcc/jwMl2TbOaOwT6cBHHldn7b5k0JtSay/ZhTtc1IKPXnD0oA++bKHClhJS8LSHpmxtbzjCxQ0Jj+E3zRo6FOV0wjMqOcpuYCF1rYJ+zxoArquzULiy2IftLmmeQd27MFZPkQSbmQWoN63fhXhjD5M2LanshnfD+F44wPeL3HN75Thiq/k66UmSklgSGC6jEasInuPg/mcdTm1yAuSBdPn1D9mH8LzlghE4m8OfA5lI+5ughOY/NxcnoNehF8NTqj9rqHkWyJAKfHMrbGMrMGx8QRabNw2dHYWxge5YqdL8H+DNlkiqR8KKKzZOedRr3Omtu+Nl9vn6vyxp3niOY5tEqb4BdM2BUisI3KJ11Yxx2SCaem3TPcwlBlr3DzXa0t6Tt1EpHTEamkdwXFGAwo12d6QPdz9iAvUikmzIKNDYf/NEtTRGrXfNTawHpwLM=
+       properties :
+        x : 265
+        y : 111
+        width : 14
+        height : 14
+       type : 8
+       code_elements :
+        type_code : 8
+        p_codes : []
+     -
+       name : STC_TimeTimeZone
+       identifier : 0x2ec254f10ad1a798
+       internal_properties : CAAAAAgAAACExcFAuLwhtXoz0nUUv5zn3/Ib3j+HhksLerv4l/mPypDleUdfYoocHUwRBb04oDDs1nJPCwIIkuLo8Yxygg8atovmKzAKNI2x/C2H+JrsV/1s0AUDx0npN9VfKFQmi5GgAsKXi7qQq2BP/45YNl5acU1PPX/YUJca0Up5+Eq5oiEyfy2uSNVC8zjAYT9nhjDBs85Q0tv1SVV1CWijaJfl5PUVXU1L0oAcLILNMCGo2vFmoY0mWJjL1AdOEn2cRnw/neOlkaRgFNpguSxAm7vG2o335ryaVPFkGG0zwW/5jE/gMK0NMO3vytJoURGQ/ZmD4D/a6RYL78ep24hMqTX4Pkj7nrLmsGQG3emFUmHsAV5oy1eOyJSzq4k9dZ9XswKUdP3I6k4ZyhLRc3XjqnVNwTnQTcCHgJpVd9IIOo2eZz5SN+RkbX/PdWyLrxKlkAB65KUOTg0bKxGxVKMQtN0TXGbxmIG6DxodYR8XrQ1n1cj2C0OMVUdOHtJOK+PGDM6dxdz/w8L2szoY86MeTMJLRwuhFLIUKeLT4VBb/w==
+       properties :
+        x : 212
+        y : 135
+        width : 120
+        height : 20
+       type : 3
+       code_elements :
+        type_code : 2
+        p_codes : []
+     -
+       name : STC_Local_Time
+       identifier : 0x2ec254f10ad2a798
+       internal_properties : CAAAAAgAAAAvjErnuJPGI9W/V8ZPiz42sgpEXn+qNjoYtVZYHFuIHRAtjXUIE/XGTpEvd53A0dMZPqmq8fF5KTkv2kKFAsMBP/4179nYeQ6oGUje9RE5s5kh4iuvnRIk6Ag8tkCuZiKUunx+T740IRSkHeXW42JEtEcGTRfv7yfsh7ebGQyoLjHKiU+jiK0NF+Zp3e7zOMkSoc787fO923Ab6/cqEVDGK9n9ulSdOkGBxrQEHFtnqVzqbw2bz6mxZYBEhTHW4jyQ3LINA2dPeg2s1AXdu9OR8p8QJV4p/aiatbv/wiAkTfqZXeEfWZYYZLdaOOGgujD1vyNGXGNnCUbTTU4dKNCLoM5I0cWE0cJHpI3By/v+ofVqnj0bSkejc120NjbtC2fheHDiIXKfQzGno/YWpJfQOeh9dqIuIhVTbFZdBo6X9QeymuFf51gsC4i63uZoAgUj65NuNhXIosleSW3GeKpjrqj8oar2dhaxAsa/7QMt3qFyKWaNOnkdHCWuJQ92TYcKVYK1
+       properties :
+        x : 68
+        y : 20
+        width : 120
+        height : 32
+       type : 3
+       code_elements :
+        type_code : 2
+        p_codes : []
+     -
+       name : STC_Different_time_zone
+       identifier : 0x2ec254f10ad3a798
+       internal_properties : CAAAAAgAAADRoraN8HSiSQF0sjJ69b7GDntBFr0Q/KnsPboiRV7fOivW+fq47gNHrpoz8Jqcc7MDQtMzQowePSvqbVS42xuI6c+HdQj7sNFYbEPXz5tuh3wJbVR7kNG/lFG8DvPKoyu+wsH6C8aFfXg3cOohbOQHehn+XATmtyvQ9aZ3A8vNwtimJttvwcPSyqOAgW4uiVTi6sbvevCYt+BRcOR+z25BaXhUFl5F7MjEzVwdGmbUySmgE9K2C/JWckBNkHd/F1n7QewvIFLxsgqX3wHkwxcFADUsZj0pu+abGBhraTaK564Vk0RAMUROeQKFLlikcrgp+31PZU1914P+4Czsjs7FpnS0CDpw1c528WQlGnHWSa8s6iqKkGH9jKwdys/Hixd/LrhnyMQP65j4biJxMCewWRBrJbW+mlWi3c8lr7SPnWH8WmR2DTTDzo/TWGJ4OJefCOBIMEYhhGo27Y/UhhHbAlsm+4qaA4EpsG4qfk3SmNW0fqlsH22FOP10dh8pyTXUH+GpPHGSFa5N09kiRQ==
+       properties :
+        x : 212
+        y : 20
+        width : 120
+        height : 32
+       type : 3
+       code_elements :
+        type_code : 2
+        p_codes :
+         -
+           code : |1-
+            
+           type : 14
+     -
+       name : STC_Example_of_customized_toast
+       identifier : 0x2ec254f10ad4a798
+       internal_properties : CAAAAAgAAADHjxbLDl4hg+KGvUGjmPpsmOb4j6/8YBiOOX5EdoNbSugXenqdYAB1Ll+PPzFki/1hOW6Fs4ZqqJk2mEKE2u1ZfKfhrTLj6XizGWTksgC4AXpS1gbhf+XfWdAGVKe1rF6MV0EdixEwMaAdD8ErH3FIZV01vuFTjUG7qG0JosDqJYqZldyxr6I/PV046m/JZCc8yomK+/ZiIDWXHdvc7M8qcdbk/Du/vc/AZdPekiEKOuj/iLApfH+qhn5acP2calxgD8xeOp85dkx9X8ynST8DXWktieFx6C7BKTGgRj3DKVL0kJ7vu2/Txd8UxqtA6SVXDw0EfXeuUyeaLDAxhD2KpdM6B2/03VZUh6o4R5a7q7ZOxj93GU+pFWegE22NnFAsQ7TVABU6BEfxLDL/941TrJtjQ6Qb9tHVBI7r1uT59z696MW03m1zV3qiTSp0yv62lWEwwvrji4vG2pI0RPTbwBJjzUtLA82P9seWnKayInOGCcBywFEgw0SbR1zkvnhD4ooJiv94+WsKcgqczc92ub/GQfk8XzeUAf3GRzbwZCrza4C4khZrzzblzXCzi5EQb6zQPnSxyIqW+ofbVKnQf1W2vGMmpxfqR6mX6ldab3Q5Oxdt2uahi0rc8DRT
+       properties :
+        x : 8
+        y : 208
+        width : 386
+        height : 77
+       type : 3
+       code_elements :
+        type_code : 2
+        p_codes :
+         -
+           code : |1+
+            // Version 1
+            // Description 
+            // Static for a title
+           type : 14
+    type : 32
+    code_elements :
+     type_code : 70
+     p_codes :
+      -
+        code : |1+
+         procedure MyWindow( local gsBackgroundImage is string )
+         
+         IMG_Background = gsBackgroundImage
+         
+ menu :
+  name : _Menu
+  identifier : 0x2eb3bff804e7444c
+  internal_properties : CAAAAAgAAAAjoO+VYAXYh2SYpTvD7AgXCHEHRjuTd5K/qNR3zUpM1aIlQYejrbtK76/LWLozAhgdmcRuoxDXe7vi3lf8PoZYYzNtPYlgCK9AarNrSCSSPpGDp+KLIikSwO2L+lCfwFobS8WKQZu2noN9WV5ipxuLKjTaOvfojbcmu1i6FPrF8FEPa+oQBHdRyMYNLYyLF/nTGn2y7NBixG5dC7y2wsO4aXA1CKpzZUca8sBJUrSr9FqhTJMK37pOOZqMTeCIo+trbOMI1osTdzjD26auXrzETrP8OxsAt+HgvahLwDb4kRpR6lQOjBIj
+  options : []
+ languages :
+  - en-GB
+ popup_menus : []
+ message_bar : {}
+ actionbar : {}
+ code_elements :
+  type_code : 71
+  p_codes : []
+ code_parameters :
+  internal_properties : CAAAAAgAAACVGQgYbalU7DKC3oH4ItDrjtcTHXXV/EuH8q0IbhyQlw==
+  original_name : FI_SansNom1
+resources :
+ string_res :
+  identifier : 0x1eb3bff800bc444c
+  internal_properties : CAAAAAgAAACm76HWfKGWp33VjXInA4cRlqArlgTTA862QGt72W2ld5Y=
+  strings :
+   -
+     text :
+      en-GB : America/New_York
+     index : 0
+custom_note :
+ internal_properties : CAAAAAgAAAC68/W0/adbG0nFCRhrE42B5HRnbDzVHaz86sSQyxlBk7I=
+rad :
+ internal_properties : CAAAAAgAAABoAN7PLpwJW3EiA7WVZdCA5EwrCA1rvutcDHooMWKe
